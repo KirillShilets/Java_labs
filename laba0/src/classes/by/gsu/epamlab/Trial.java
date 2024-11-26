@@ -1,4 +1,4 @@
-package by.gsu.epamlab;
+package classes.by.gsu.epamlab;
 
 public class Trial {
     private String name;

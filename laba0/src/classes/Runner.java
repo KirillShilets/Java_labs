@@ -1,4 +1,6 @@
-import by.gsu.epamlab.Trial;
+package classes;
+
+import classes.by.gsu.epamlab.Trial;
 
 public class Runner {
     public static void main(String[] args) {
